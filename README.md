@@ -8,6 +8,7 @@ This section contains a list and summary of projects completed.
 - [Excel](#excel)
 - [Python](#python)
 - [Tableau](#tableau)
+- [React](#react)
 
 _Click on any of the bolded above to go to specific section._
 
