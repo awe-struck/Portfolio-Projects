@@ -8,6 +8,7 @@ This section contains a list and summary of projects completed.
 - [Excel](#excel)
 - [Python](#python)
 - [Tableau](#tableau)
+- [HTML/CSS/JavaScript](#HTML/CSS/JavaScript)
 - [React](#react)
 
 _Click on any of the bolded above to go to specific section._
@@ -49,5 +50,17 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Datetime, bs4
 
 _Please visit my tableau profile for visualizations https://public.tableau.com/app/profile/awestruck_
 
+# HTML/CSS/JavaScript
+
+| Project Name | Description |
+|---|---| 
+| [CampFinder Web App](https://github.com/awe-struck/Camp-Finder) | This project implements CRUD functinoality that involves responding to user input and creating, finding, manipulating and deleting campgrounds data. |
+
 # React
+
+| Project Name | Description |
+|---|---|
+| [Pokemon Memory Card Game](https://github.com/awe-struck/memoryCard) | Built with react, this web app features a memory game where the user selects as many unique Pokemon as possible.   
+| [CV-Resume Form](https://github.com/awe-struck/cv-App) | Resume Builder React web app that takes in user input and displays its output through a preivew screen. |   
+
 
