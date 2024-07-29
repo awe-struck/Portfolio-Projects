@@ -2,7 +2,8 @@
 
 This section contains a list and summary of projects completed.
 
-## Table of Contents
+## ![image](https://github.com/user-attachments/assets/f2acaf9e-2c43-484e-88e6-6d526eb239fc)
+Table of Contents
 
 - [SQL](#sql)
 - [Excel](#excel)
@@ -38,8 +39,8 @@ Skills: VLOOKUP, Conditional Formatting, Charting
 
 Libraries: Pandas, Numpy, Matplotlib, Seaborn, Datetime, bs4
 
-| Project Name | Description |
-|---|---|
+| Project Name | Area | Tools | Description |
+|---|---|---|---|
 | [Amazon Web Scrapper](https://github.com/awe-struck/Amazon-Web-Scrapper/blob/master/Amazon%20Webscrapper%20Price%20Check.ipynb) | Involves scrapping web page data and saving the results into a CSV file. Upon getting desired price, a notification email will be sent out. |   
 | [Tic Tac Toe Game](https://github.com/awe-struck/Tic-Tac-Toe-Game/blob/main/Tic%20Tac%20Toe%20Game.ipynb) | This project involves recreating the game of tic tac toe. |   
 | [Blackjack Game](https://github.com/awe-struck/Blackjack-game/blob/main/Blackjack%20Game.ipynb) | This project involves recreating the game of Blackjack againist a computer dealer. |
@@ -50,17 +51,14 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Datetime, bs4
 
 _Please visit my tableau profile for visualizations https://public.tableau.com/app/profile/awestruck_
 
-# HTML/CSS/JavaScript
+# Web Development
 
-| Project Name | Description |
-|---|---| 
-| [CampFinder Web App](https://github.com/awe-struck/Camp-Finder) | This project implements CRUD functinoality that involves responding to user input and creating, finding, manipulating and deleting campgrounds data. |
+| Project Name | Area | Tools | Description |
+|---|---|---|---|
+| [CampFinder Web App](https://github.com/awe-struck/Camp-Finder) | Web App | HTML, CSS, JavaScript, MonogoDB, mongo-atlas | This project implements a web app displays a list of campgrounds to usres. Users can create and delete accounts, campground listings and reviews. Designed with RESTful API convertions and has CRUD functinoality that involves responding to user input and creating, finding, manipulating and deleting  data. |
+| [Pokemon Memory Card Game](https://github.com/awe-struck/memoryCard) | Web App | React, HTML, CSS, JavaScript | Built with react, this web app features a memory game where the user selects as many unique Pokemon as possible.   
+| [CV-Resume Form](https://github.com/awe-struck/cv-App) | Web App | React, HTML, CSS, JavaScript  | Resume Builder React web app that takes in user input and displays its output through a preivew screen. |  
 
-# React
-
-| Project Name | Description |
-|---|---|
-| [Pokemon Memory Card Game](https://github.com/awe-struck/memoryCard) | Built with react, this web app features a memory game where the user selects as many unique Pokemon as possible.   
-| [CV-Resume Form](https://github.com/awe-struck/cv-App) | Resume Builder React web app that takes in user input and displays its output through a preivew screen. |   
+ 
 
 
