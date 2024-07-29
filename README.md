@@ -2,8 +2,7 @@
 
 This section contains a list and summary of projects completed.
 
-## ![image](https://github.com/user-attachments/assets/f2acaf9e-2c43-484e-88e6-6d526eb239fc)
-Table of Contents
+## ![image](https://github.com/user-attachments/assets/bebb33ec-9bc2-4b75-a80c-db5af38f499c) Table of Contents
 
 - [SQL](#sql)
 - [Excel](#excel)
