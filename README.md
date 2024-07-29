@@ -18,8 +18,7 @@ Hello, welcome to my project portfolio! It is a complication of data projects th
 |---|---|---|---|
 | [Webtoon Series Data Dashboard](https://github.com/awe-struck/WEBTOON_info/blob/main/Data_Exploration.sql) | Data Cleaning, Data Analysis, Data Visualization  | Joins, CTEs, Window Functions(), Temp Tables, Case When Statements  | This project cleans, prepares and briefly explores data extracted from WEBTOON. Using that cleaned data, it was then visualized on Tableau as a reporting dashboard| https://public.tableau.com/app/profile/awestruck/viz/webt/WebtoonDashboard | From a CSV dataset, I imported the dataset into a SQL database. Then I cleaned and transformed that dataset and prepared it for tableau data visualization  |
 | [Video Game Sales](https://github.com/awe-struck/Video_Game_Sales_2016/blob/main/Data_Analysis/sales_analysis.sql) | Data Cleaning, Data Analysis, Data Visualization | Joins, CTEs, Window Functions(), Temp Tables, Case When Statements |This project involves data analysis of a video game sales dataset that is set from 1980-2016. |
-
-|[Instagram Basic Database CLone](https://github.com/awe-struck/instagram_clone) | Data Modelling | CTE, Subqueries | Clone of Instagram Database with basic design and schema of tables used in social media app | 
+| [Instagram Basic Database CLone](https://github.com/awe-struck/instagram_clone) | Data Modelling | CTE, Subqueries | Clone of Instagram Database with basic design and schema of tables used in social media app | 
 
 ***
 <br>
