@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-This section contains a list and summary of projects completed.
+Hello, welcome to my project portfolio! It is a complication of data projects that shows off various tools, technology and techiniques related to manipulating and analyzing data
 
 ## Table of Contents
 
@@ -10,10 +10,6 @@ This section contains a list and summary of projects completed.
 - [Tableau](📁tableau)
 - [Web Development](📁web-development)
 
-_Click on any of the bolded above to go to specific section._
-
-***
-<br>
 <br>
 
 ## 📁SQL
@@ -33,7 +29,7 @@ Functions:
 
 | Project Name | Area | Tools, Techniques & Libraries | Description |
 |---|---|---|---|
-| [Housing Market Analysis](https://github.com/awe-struck/Housing_Data/tree/main/Linear_Regression_Model) | Data Analysis | VLOOKUP, Conditional Formatting, Chartin |This project involves using Excel to Clean, Manpulate and Analyze Housing Market Data |
+| [Housing Market Analysis](https://github.com/awe-struck/Housing_Data/tree/main/Linear_Regression_Model) | Data Analysis, Data Visualization | VLOOKUP, Conditional Formatting, Chartin |This project involves using Excel to Clean, Manpulate and Analyze Housing Market Data |
 
 ***
 <br>
