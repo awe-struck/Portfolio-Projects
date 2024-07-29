@@ -2,7 +2,7 @@
 
 Hello, welcome to my project portfolio! It is a complication of data projects that shows off various tools, technology and techiniques related to manipulating and analyzing data
 
-## Table of Contents
+## 📚Table of Contents
 
 - [SQL](📁sql)
 - [Excel](📁excel)
